@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lirida Papallazi lpapallazi@deloitte.it @liri.papallazi
 
 # THANKS
 
